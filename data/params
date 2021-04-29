@@ -1,7 +1,0 @@
-script_path ~/genomics/origin/HPA/Y601/test/src
-Reference_path ./data/Y601.hap.bam
-Reference_ploid 6
-Wild_relative_path ./data/Y413.hap.bam
-Wild_relative_ploid 4
-Genome_info_path ./data/genome.info
-Genome_annotation_path ./data/pasi3.clean.gff3
